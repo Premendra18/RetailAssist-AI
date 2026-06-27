@@ -1,1 +1,169 @@
-
+{
+  "orders": [
+    {
+      "order_id": "#NM-10041",
+      "customer_name": "Rajesh Kumar",
+      "product_name": "Zenith Pro Max",
+      "order_date": "2026-06-20",
+      "estimated_delivery": "2026-06-24",
+      "order_status": "Delivered",
+      "payment_method": "Credit Card",
+      "order_amount": 89999,
+      "shipping_city": "Mumbai"
+    },
+    {
+      "order_id": "#NM-10042",
+      "customer_name": "Ananya Sharma",
+      "product_name": "Chrono Fit Band",
+      "order_date": "2026-06-24",
+      "estimated_delivery": "2026-06-28",
+      "order_status": "In Transit",
+      "payment_method": "UPI",
+      "order_amount": 3598,
+      "shipping_city": "Mumbai"
+    },
+    {
+      "order_id": "#NM-10043",
+      "customer_name": "Amit Patel",
+      "product_name": "TitanBook Air 14",
+      "order_date": "2026-06-25",
+      "estimated_delivery": "2026-06-29",
+      "order_status": "Processing",
+      "payment_method": "Netbanking",
+      "order_amount": 74999,
+      "shipping_city": "Ahmedabad"
+    },
+    {
+      "order_id": "#NM-10044",
+      "customer_name": "Priya Nair",
+      "product_name": "SonicBuds Pro ANC",
+      "order_date": "2026-06-23",
+      "estimated_delivery": "2026-06-27",
+      "order_status": "Shipped",
+      "payment_method": "UPI",
+      "order_amount": 6499,
+      "shipping_city": "Bengaluru"
+    },
+    {
+      "order_id": "#NM-10045",
+      "customer_name": "Vikram Singh",
+      "product_name": "AeroGlide Pro 16",
+      "order_date": "2026-06-18",
+      "estimated_delivery": "2026-06-22",
+      "order_status": "Delivered",
+      "payment_method": "Credit Card",
+      "order_amount": 139999,
+      "shipping_city": "Delhi"
+    },
+    {
+      "order_id": "#NM-10046",
+      "customer_name": "Sneha Reddy",
+      "product_name": "WaveBar Go",
+      "order_date": "2026-06-25",
+      "estimated_delivery": "2026-06-30",
+      "order_status": "Packed",
+      "payment_method": "COD",
+      "order_amount": 4098,
+      "shipping_city": "Hyderabad"
+    },
+    {
+      "order_id": "#NM-10047",
+      "customer_name": "Rohan Das",
+      "product_name": "Pulse Active 3",
+      "order_date": "2026-06-25",
+      "estimated_delivery": "2026-06-27",
+      "order_status": "Out for Delivery",
+      "payment_method": "UPI",
+      "order_amount": 8999,
+      "shipping_city": "Kolkata"
+    },
+    {
+      "order_id": "#NM-10048",
+      "customer_name": "Meera Krishnan",
+      "product_name": "Echo Pods Mini",
+      "order_date": "2026-06-15",
+      "estimated_delivery": "2026-06-19",
+      "order_status": "Returned",
+      "payment_method": "Debit Card",
+      "order_amount": 1898,
+      "shipping_city": "Chennai"
+    },
+    {
+      "order_id": "#NM-10049",
+      "customer_name": "Aditya Verma",
+      "product_name": "Prime Fold X",
+      "order_date": "2026-06-24",
+      "estimated_delivery": "2026-06-28",
+      "order_status": "Cancelled",
+      "payment_method": "Credit Card",
+      "order_amount": 124999,
+      "shipping_city": "Pune"
+    },
+    {
+      "order_id": "#NM-10050",
+      "customer_name": "Diya Banerjee",
+      "product_name": "Aura Studio Buds",
+      "order_date": "2026-06-22",
+      "estimated_delivery": "2026-06-26",
+      "order_status": "In Transit",
+      "payment_method": "UPI",
+      "order_amount": 12999,
+      "shipping_city": "Kolkata"
+    },
+    {
+      "order_id": "#NM-10051",
+      "customer_name": "Arjun Mehta",
+      "product_name": "Roam Outdoor XL",
+      "order_date": "2026-06-21",
+      "estimated_delivery": "2026-06-25",
+      "order_status": "Delivered",
+      "payment_method": "Debit Card",
+      "order_amount": 7999,
+      "shipping_city": "Mumbai"
+    },
+    {
+      "order_id": "#NM-10052",
+      "customer_name": "Kavita Joshi",
+      "product_name": "Aura Slim Dial",
+      "order_date": "2026-06-25",
+      "estimated_delivery": "2026-06-29",
+      "order_status": "Processing",
+      "payment_method": "COD",
+      "order_amount": 11999,
+      "shipping_city": "Jaipur"
+    },
+    {
+      "order_id": "#NM-10053",
+      "customer_name": "Sandeep Gill",
+      "product_name": "BoomBox Street 20",
+      "order_date": "2026-06-23",
+      "estimated_delivery": "2026-06-27",
+      "order_status": "Shipped",
+      "payment_method": "Netbanking",
+      "order_amount": 11999,
+      "shipping_city": "Chandigarh"
+    },
+    {
+      "order_id": "#NM-10054",
+      "customer_name": "Pooja Bhatia",
+      "product_name": "Tempo Bass Pods",
+      "order_date": "2026-06-25",
+      "estimated_delivery": "2026-06-30",
+      "order_status": "Packed",
+      "payment_method": "UPI",
+      "order_amount": 2598,
+      "shipping_city": "Lucknow"
+    },
+    {
+      "order_id": "#NM-10055",
+      "customer_name": "Naveen Rao",
+      "product_name": "NovaBook Flex 13",
+      "order_date": "2026-06-19",
+      "estimated_delivery": "2026-06-23",
+      "order_status": "Delivered",
+      "payment_method": "Credit Card",
+      "order_amount": 49999,
+      "shipping_city": "Visakhapatnam"
+    }
+  ]
+}
