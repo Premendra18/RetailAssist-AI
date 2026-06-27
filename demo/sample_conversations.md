@@ -113,14 +113,14 @@ Please let me know if you would like to know more about either of these laptops!
 
 ### NovaAssist
 
-The iPhone 16 Pro Max is not available in the NovaMart product catalog.
+We do not currently carry the iPhone 16 Pro Max in our NovaMart catalog. We only sell and recommend products that are available in our current inventory. 
 
-However, we currently offer these premium alternatives:
+If you are looking for a premium smartphone, we do have high-end options available in our store:
 
-* Zenith Pro Max
-* Prime Fold X
+* **Zenith Pro Max (NM-SP-101):** Features a 6.7-inch Super AMOLED 120Hz display, 256GB storage, 12GB RAM, and a 108MP triple rear camera for ₹89,999.
+* **Prime Fold X (NM-SP-104):** Features a 7.6-inch folding Dynamic AMOLED screen, 512GB storage, 12GB RAM, and water resistance (IPX8) for ₹1,24,999.
 
-Please let me know if you'd like to compare these models.
+Please let me know if you would like more details about either of these models, or if you have any other questions.
 
 ---
 
@@ -140,7 +140,7 @@ Please let me know if you'd like to compare these models.
 
 ### NovaAssist
 
-Could you please provide your Order ID?
+To help you locate your order and check its status, could you please provide your Order ID?
 
 ### Customer
 
@@ -148,11 +148,11 @@ Could you please provide your Order ID?
 
 ### NovaAssist
 
-I couldn't find that Order ID in our system.
+I was unable to find Order ID **#NM-99999** in our system. 
 
-Please verify the Order ID from your invoice or confirmation email.
+Could you please double-check the ID on your invoice or confirmation email and verify that it is correct? 
 
-If the issue persists, I can help summarize the issue and connect you with a human support representative.
+If you are sure the number is correct, or if you continue to have trouble tracking it, please let me know. I can easily summarize this issue and connect you with a human support representative to assist you further.
 
 ---
 
