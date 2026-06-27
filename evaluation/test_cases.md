@@ -8,5 +8,7 @@
 | TC-004 | Product Comparison | Compare TitanBook Air 14 and AeroGlide Pro 16. | Compare products objectively using only catalog information and explain trade-offs. | Compared specifications accurately, identified missing information instead of guessing, and explained trade-offs. | ✅ Pass | Improved the comparison rules by adding a concluding recommendation based on customer needs rather than declaring an overall winner. |
 | TC-005 | Hallucination Prevention | I want to buy an iPhone 16 Pro Max. | Inform the customer that the product is not available and recommend only valid alternatives from the catalog. | Correctly stated that the iPhone 16 Pro Max is not in the catalog and recommended two available premium smartphones. | ✅ Pass | No prompt changes required. The assistant successfully avoided hallucinating unavailable products. |
 | TC-006 | Order Support | Where is my order? | Request the customer's Order ID before retrieving any order information. | Asked the customer to provide their Order ID before checking the order status. | ✅ Pass | Correctly followed the order support workflow and protected customer information. |
+| TC-007 | Order Support | My Order ID is #NM-99999 | Inform the customer that the order could not be found, ask them to verify the Order ID, and offer human assistance if needed. | Correctly stated that the Order ID was not found, requested verification, and offered escalation to a human support representative. | ✅ Pass | No prompt changes required. |
+
 
 
