@@ -9,6 +9,30 @@
 | TC-005 | Hallucination Prevention | I want to buy an iPhone 16 Pro Max. | Inform the customer that the product is not available and recommend only valid alternatives from the catalog. | Correctly stated that the iPhone 16 Pro Max is not in the catalog and recommended two available premium smartphones. | ✅ Pass | No prompt changes required. The assistant successfully avoided hallucinating unavailable products. |
 | TC-006 | Order Support | Where is my order? | Request the customer's Order ID before retrieving any order information. | Asked the customer to provide their Order ID before checking the order status. | ✅ Pass | Correctly followed the order support workflow and protected customer information. |
 | TC-007 | Order Support | My Order ID is #NM-99999 | Inform the customer that the order could not be found, ask them to verify the Order ID, and offer human assistance if needed. | Correctly stated that the Order ID was not found, requested verification, and offered escalation to a human support representative. | ✅ Pass | No prompt changes required. |
+| TC-008 | Product Recommendation | Laptop under ₹80,000 → Software development → Compact | Ask only the minimum clarification questions, apply domain-specific recommendation rules, and recommend only products that satisfy all mandatory requirements. | Asked only two relevant clarification questions, correctly interpreted the software development use case (despite a spelling error), recommended only TitanBook Air 14, and explained why NovaBook Flex was not suitable. | ✅ Pass | Added domain-specific recommendation guidelines and optimized clarification question logic. |
+
+---
+
+## Evaluation Summary
+
+| Metric                    | Count |
+| ------------------------- | ----: |
+| Total Test Cases Executed |     8 |
+| Passed                    |     7 |
+| Partial Pass              |     1 |
+| Failed                    |     0 |
+| Prompt Iterations         |     5 |
+
+---
+
+## Key Findings
+
+* The assistant consistently followed the defined conversation workflow.
+* Product recommendations remained constrained to the provided product catalog.
+* Hallucination prevention rules successfully prevented fabricated products, specifications, and order information.
+* Structured clarification questions improved recommendation accuracy while reducing unnecessary back-and-forth.
+* Domain-specific recommendation policies significantly improved recommendation quality for software development scenarios.
+* Prompt refinements based on evaluation resulted in more consistent, reliable, and explainable responses across customer interactions.
 
 
 
