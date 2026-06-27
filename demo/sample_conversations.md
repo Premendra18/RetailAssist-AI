@@ -43,8 +43,8 @@ Based on your preference for a compact laptop for software development under ₹
 * **Reason for Recommendation:** This model is suited for programming and software development within your budget. It features a compact 14-inch display and is lightweight at just 1.25 kg, making it highly portable. Crucially, the 16GB of LPDDR5 RAM and the 13th Gen Intel Core i5 processor provide the necessary performance for software development environments, multitasking, and compiling code. 
 
 *(Note: We also carry the NovaBook Flex 13 at ₹49,999, but we do not recommend it for your use case as its 8GB RAM and Core i3 processor do not meet the standard performance requirements for software development.)*
-
 Please let me know if you would like to know more about this laptop or if you have any other questions!
+
 ---
 
 ### What this demonstrates
@@ -64,20 +64,35 @@ Please let me know if you would like to know more about this laptop or if you ha
 
 ### NovaAssist
 
-| Feature   | TitanBook Air 14         | AeroGlide Pro 16         |
-| --------- | ------------------------ | ------------------------ |
-| Price     | ₹74,999                  | ₹139,999                 |
-| Processor | Intel Core i5 (13th Gen) | Intel Core i7 (13th Gen) |
-| RAM       | 16GB                     | 32GB                     |
-| Storage   | 512GB SSD                | 1TB NVMe SSD             |
-| GPU       | Integrated               | NVIDIA RTX 4060          |
-| Weight    | 1.25 kg                  | 2.1 kg                   |
-| Warranty  | 1 Year                   | 2 Years                  |
+Here is an objective comparison of the **TitanBook Air 14** and the **AeroGlide Pro 16** based on their specifications in our catalog:
 
-### Summary
+### Specifications Comparison
 
-* TitanBook Air 14 is better suited for portability and everyday software development.
-* AeroGlide Pro 16 is better suited for gaming, AI workloads, and high-performance creative work.
+| Feature | TitanBook Air 14 (NM-LP-201) | AeroGlide Pro 16 (NM-LP-202) |
+| :--- | :--- | :--- |
+| **Price** | ₹74,999 | ₹139,999 |
+| **Rating** | 4.6 | 4.8 |
+| **Display** | 14-inch QHD IPS | 16-inch Mini-LED 165Hz |
+| **Processor** | Intel Core i5 13th Gen | Intel Core i7 13th Gen |
+| **Graphics (GPU)** | Integrated (Not specified in catalog) | Dedicated NVIDIA RTX 4060 |
+| **RAM** | 16GB LPDDR5 | 32GB |
+| **Storage** | 512GB SSD | 1TB NVMe SSD |
+| **Battery Life** | Up to 12 Hours | Not specified in catalog |
+| **Weight** | 1.25 kg | 2.1 kg |
+| **Keyboard** | Standard (Not specified in catalog) | RGB Backlit Keyboard |
+| **Camera** | Not specified in catalog | Not specified in catalog |
+| **Warranty** | 1 Year Onsite Warranty | 2 Years Accidental Damage Protection |
+| **Stock Status** | In Stock | In Stock |
+
+---
+
+### Key Trade-Offs
+
+* **Portability and Battery vs. Power and Performance:** The **TitanBook Air 14** is significantly lighter (1.25 kg compared to 2.1 kg) and offers a specified battery life of up to 12 hours, making it highly portable. On the other hand, the **AeroGlide Pro 16** offers double the RAM (32GB), double the storage (1TB SSD), a more powerful Core i7 processor, and a dedicated NVIDIA RTX 4060 GPU, which is suitable for gaming, video editing, or heavy rendering.
+* **Display Difference:** The **TitanBook Air 14** has a 14-inch QHD display. The **AeroGlide Pro 16** features a larger 16-inch Mini-LED display with a high 165Hz refresh rate, providing smoother visuals and different display technology.
+* **Price and Protection:** The **TitanBook Air 14** is a more budget-friendly option at ₹74,999 and comes with a 1-year onsite warranty. The **AeroGlide Pro 16** is priced higher at ₹139,999 but includes a longer 2-year warranty that covers accidental damage.
+
+Please let me know if you would like to know more about either of these laptops!
 
 ---
 
