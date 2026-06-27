@@ -9,6 +9,8 @@ RetailAssist AI is a prompt-engineered AI retail sales and customer support assi
 
 The project demonstrates how Large Language Models (LLMs) can be structured using modular prompts, business rules, and a curated knowledge base to provide reliable, consistent, and explainable customer support.
 
+RetailAssist AI is the overall project, while **NovaAssist** is the prompt-engineered AI assistant developed as part of this prototype.
+
 Unlike a generic chatbot, **NovaAssist** follows predefined workflows for:
 
 * Product Recommendations
