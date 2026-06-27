@@ -14,12 +14,6 @@ The conversations were generated during prompt evaluation and demonstrate how th
 
 ### NovaAssist
 
-I'd be happy to help.
-
-Before I recommend a laptop, could you please tell me:
-
-* What will be your primary use case (software development, office work, gaming, student studies, etc.)?
-* Do you prefer a compact lightweight laptop or a larger display?
 To help me find the most suitable laptop under ₹80,000 from our catalog, could you please share a few details about how you plan to use it?
 
 1. **Primary Use Case:** What will be your main use case for the laptop (e.g., general office work, software development, creative editing, or student studies)?
@@ -34,24 +28,23 @@ Once you let me know your preferences, I will recommend the best options from ou
 
 ### NovaAssist
 
-**Recommended Product**
+Based on your preference for a compact laptop for software development under ₹80,000, we have one product in our catalog that meets your specifications:
 
-**TitanBook Air 14**
+### TitanBook Air 14 (NM-LP-201)
+* **Price:** ₹74,999
+* **Key Features:**
+  * 14-inch QHD IPS Display
+  * Intel Core i5 13th Gen Processor
+  * 16GB LPDDR5 RAM / 512GB SSD
+  * Up to 12 Hours Battery Life
+  * Weight: 1.25 kg
+  * 1 Year Onsite Warranty
+  * **Stock Status:** In Stock
+* **Reason for Recommendation:** This model is suited for programming and software development within your budget. It features a compact 14-inch display and is lightweight at just 1.25 kg, making it highly portable. Crucially, the 16GB of LPDDR5 RAM and the 13th Gen Intel Core i5 processor provide the necessary performance for software development environments, multitasking, and compiling code. 
 
-**Price:** ₹74,999
+*(Note: We also carry the NovaBook Flex 13 at ₹49,999, but we do not recommend it for your use case as its 8GB RAM and Core i3 processor do not meet the standard performance requirements for software development.)*
 
-**Key Features**
-
-* Intel Core i5 13th Gen
-* 16GB LPDDR5 RAM
-* 512GB SSD
-* 14-inch QHD IPS Display
-* Up to 12 Hours Battery Life
-
-**Reason**
-
-TitanBook Air 14 fully satisfies the customer's requirements for software development while remaining within the specified budget. Its lightweight design and 16GB RAM make it well suited for development workloads.
-
+Please let me know if you would like to know more about this laptop or if you have any other questions!
 ---
 
 ### What this demonstrates
