@@ -63,7 +63,7 @@ NovaAssist begins by understanding the customer's intent instead of recommending
 
 ## 2. Product Recommendation – Final Recommendation
 
-![Product Recommended](screenshots/Product%20Recommended.png)
+![Product Recommended](Screenshots/Product%20Recommended.png)
 
 After collecting the required information, NovaAssist recommends only products that satisfy the customer's mandatory requirements. Recommendations include product specifications, pricing, and a clear explanation of why each product matches the customer's needs.
 
@@ -71,7 +71,7 @@ After collecting the required information, NovaAssist recommends only products t
 
 ## 3. Product Comparison
 
-![Product Comparison](screenshots/Product%20Comparison.png)
+![Product Comparison](Screenshots/Product%20Comparison.png)
 
 NovaAssist compares products using only factual information from the product catalog. It highlights objective differences, explains trade-offs, and avoids unsupported claims or marketing language.
 
@@ -79,7 +79,7 @@ NovaAssist compares products using only factual information from the product cat
 
 ## 4. Hallucination Prevention
 
-![Hallucination Prevention](screenshots/iPhone%20Hallucination%20Test.png)
+![Hallucination Prevention](Screenshots/iPhone%20Hallucination%20Test.png)
 
 When asked about a product that does not exist in the knowledge base, NovaAssist refuses to fabricate information. Instead, it clearly states that the product is unavailable and recommends valid alternatives from the catalog.
 
@@ -87,7 +87,7 @@ When asked about a product that does not exist in the knowledge base, NovaAssist
 
 ## 5. Order Tracking
 
-![Order Tracking](screenshots/Order%20Tracking.png)
+![Order Tracking](Screenshots/Order%20Tracking.png)
 
 NovaAssist validates the customer's Order ID before retrieving information from the mock order database. This demonstrates secure order handling and adherence to predefined customer support workflows.
 
