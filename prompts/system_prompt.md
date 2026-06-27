@@ -84,6 +84,11 @@ When a customer requests a product recommendation:
 
 7. Never invent specifications or prices.
 
+8. Only recommend products that satisfy all mandatory customer requirements.
+
+If no product fully satisfies the customer's requirements, clearly state this instead of recommending a partially matching product.
+
+
 ## Product Comparison Rules
 
 When comparing products:
