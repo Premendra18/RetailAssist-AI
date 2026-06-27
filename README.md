@@ -27,6 +27,7 @@ The project focuses on **AI Product Design, Prompt Engineering, Knowledge Base D
 - Modular system prompts with business rules and safety guardrails.
 - Scenario-based evaluation with iterative prompt refinement.
 - Comprehensive documentation including prompt iterations, demo conversations, and evaluation reports.
+This project was developed as an AI product prototype to demonstrate practical prompt engineering, structured knowledge retrieval, and evaluation methodologies commonly used in modern LLM-powered customer support systems.
 
 ---
 
@@ -223,7 +224,7 @@ RetailAssist-AI/
     ├── Product Recommended.png
     ├── Product Comparison.png
     ├── iPhone Hallucination Test.png
-    └── Ordert Tracking.png
+    └── Order Tracking.png
 ```
 
 ---
@@ -351,6 +352,7 @@ Potential enhancements for production deployment include:
 | Prompt Iterations | 5 |
 
 ---
+
 # Skills Demonstrated
 
 - Prompt Engineering
@@ -362,6 +364,7 @@ Potential enhancements for production deployment include:
 - Conversation Design
 - AI Documentation
 - Git & GitHub
+
 ---
 
 # Conclusion
