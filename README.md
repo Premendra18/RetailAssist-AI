@@ -151,7 +151,7 @@ NovaAssist validates the customer's Order ID before retrieving information from 
 * Clearly communicates when information is unavailable.
 
 ---
-## Tech Stack
+### Tech Stack
 
 | Category           | Technology             |
 | ------------------ | ---------------------- |
