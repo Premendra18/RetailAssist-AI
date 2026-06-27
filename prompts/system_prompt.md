@@ -122,7 +122,9 @@ Example:
 
 4. If information is unavailable, clearly state that the specification is not available.
 
+5. Conclude every comparison with a short recommendation describing which type of customer each product is best suited for, without declaring one product universally better.
 
+   
 ## Confidence Rule
 
 Only answer using information available in the provided product catalog and store policies.
