@@ -1,1 +1,344 @@
-
+{
+  "catalog": [
+    {
+      "product_id": "NM-SP-101",
+      "product_name": "Zenith Pro Max",
+      "category": "Smartphones",
+      "brand": "Zenith",
+      "price_inr": 89999,
+      "rating": 4.7,
+      "key_features": [
+        "6.7-inch Super AMOLED 120Hz Display",
+        "256GB Storage / 12GB RAM",
+        "Triple Rear Camera: 108MP + 12MP + 12MP",
+        "5000mAh Battery with 45W Fast Charging",
+        "5G Enabled"
+      ],
+      "warranty": "1 Year Manufacturer Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-SP-102",
+      "product_name": "Aura Lite 5G",
+      "category": "Smartphones",
+      "brand": "Aura",
+      "price_inr": 19999,
+      "rating": 4.1,
+      "key_features": [
+        "6.5-inch IPS LCD 90Hz Display",
+        "128GB Storage / 6GB RAM",
+        "Dual Rear Camera: 50MP + 2MP",
+        "5000mAh Battery with 18W Charging",
+        "5G Enabled"
+      ],
+      "warranty": "1 Year Manufacturer Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-SP-103",
+      "product_name": "Velo Play Edition",
+      "category": "Smartphones",
+      "brand": "Velo",
+      "price_inr": 34999,
+      "rating": 4.4,
+      "key_features": [
+        "6.6-inch AMOLED 144Hz Gaming Display",
+        "256GB Storage / 8GB RAM",
+        "Liquid Cooling System",
+        "4500mAh Battery with 65W Hyper Charge",
+        "5G Enabled"
+      ],
+      "warranty": "1 Year Manufacturer Warranty",
+      "stock_status": "Low Stock"
+    },
+    {
+      "product_id": "NM-SP-104",
+      "product_name": "Prime Fold X",
+      "category": "Smartphones",
+      "brand": "Prime",
+      "price_inr": 124999,
+      "rating": 4.3,
+      "key_features": [
+        "7.6-inch Folding Dynamic AMOLED Screen",
+        "512GB Storage / 12GB RAM",
+        "Dual Screen Display Capability",
+        "4400mAh Battery with Wireless Charging",
+        "Water Resistant (IPX8)"
+      ],
+      "warranty": "2 Years Premium Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-LP-201",
+      "product_name": "TitanBook Air 14",
+      "category": "Laptops",
+      "brand": "Titan",
+      "price_inr": 74999,
+      "rating": 4.6,
+      "key_features": [
+        "14-inch QHD IPS Display",
+        "Intel Core i5 13th Gen Processor",
+        "16GB LPDDR5 RAM / 512GB SSD",
+        "Up to 12 Hours Battery Life",
+        "Weight: 1.25 kg"
+      ],
+      "warranty": "1 Year Onsite Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-LP-202",
+      "product_name": "AeroGlide Pro 16",
+      "category": "Laptops",
+      "brand": "Aero",
+      "price_inr": 139999,
+      "rating": 4.8,
+      "key_features": [
+        "16-inch Mini-LED 165Hz Display",
+        "Intel Core i7 13th Gen / NVIDIA RTX 4060 GPU",
+        "32GB RAM / 1TB NVMe SSD",
+        "RGB Backlit Keyboard",
+        "Weight: 2.1 kg"
+      ],
+      "warranty": "2 Years Accidental Damage Protection",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-LP-203",
+      "product_name": "NovaBook Flex 13",
+      "category": "Laptops",
+      "brand": "Nova",
+      "price_inr": 49999,
+      "rating": 4.2,
+      "key_features": [
+        "13.3-inch FHD Touchscreen (2-in-1)",
+        "Intel Core i3 12th Gen Processor",
+        "8GB RAM / 256GB SSD",
+        "Stylus Pen Included",
+        "Weight: 1.35 kg"
+      ],
+      "warranty": "1 Year Carry-in Warranty",
+      "stock_status": "Low Stock"
+    },
+    {
+      "product_id": "NM-LP-204",
+      "product_name": "Horizon Creator 15",
+      "category": "Laptops",
+      "brand": "Horizon",
+      "price_inr": 104999,
+      "rating": 4.5,
+      "key_features": [
+        "15.6-inch OLED 4K Display",
+        "AMD Ryzen 7 Processor",
+        "16GB RAM / 1TB SSD",
+        "Color-Accurate Display (100% DCI-P3)",
+        "Weight: 1.8 kg"
+      ],
+      "warranty": "1 Year Onsite Warranty",
+      "stock_status": "Out of Stock"
+    },
+    {
+      "product_id": "NM-SW-301",
+      "product_name": "Pulse Active 3",
+      "category": "Smartwatches",
+      "brand": "Pulse",
+      "price_inr": 8999,
+      "rating": 4.2,
+      "key_features": [
+        "1.43-inch AMOLED Display",
+        "Heart Rate & SpO2 Monitor",
+        "GPS Tracking Built-in",
+        "7-Day Battery Life",
+        "5 ATM Water Resistant"
+      ],
+      "warranty": "1 Year Brand Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-SW-302",
+      "product_name": "Chrono Fit Band",
+      "category": "Smartwatches",
+      "brand": "Chrono",
+      "price_inr": 3499,
+      "rating": 3.9,
+      "key_features": [
+        "1.1-inch OLED Display",
+        "Sleep & Steps Tracker",
+        "Notification Alerts",
+        "14-Day Battery Life",
+        "IP68 Dust & Water Resistant"
+      ],
+      "warranty": "6 Months Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-SW-303",
+      "product_name": "Summit Rugged Pro",
+      "category": "Smartwatches",
+      "brand": "Summit",
+      "price_inr": 18999,
+      "rating": 4.6,
+      "key_features": [
+        "1.5-inch Sapphire Glass Display",
+        "Dual-Band GPS & Altimeter",
+        "Titanium Bezel",
+        "20-Day Battery Life in Smart Mode",
+        "10 ATM Water Resistant"
+      ],
+      "warranty": "2 Years Limited Warranty",
+      "stock_status": "Low Stock"
+    },
+    {
+      "product_id": "NM-SW-304",
+      "product_name": "Aura Slim Dial",
+      "category": "Smartwatches",
+      "brand": "Aura",
+      "price_inr": 11999,
+      "rating": 4.3,
+      "key_features": [
+        "1.3-inch Curved AMOLED Display",
+        "Bluetooth Calling (Mic & Speaker built-in)",
+        "Stress & Sleep Analysis",
+        "5-Day Battery Life",
+        "IP67 Splash Resistant"
+      ],
+      "warranty": "1 Year Brand Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-WE-401",
+      "product_name": "SonicBuds Pro ANC",
+      "category": "Wireless Earbuds",
+      "brand": "Sonic",
+      "price_inr": 6499,
+      "rating": 4.5,
+      "key_features": [
+        "Active Noise Cancellation (up to 40dB)",
+        "6 Hours Playtime (30 Hours with Case)",
+        "Dual Mic for Clear Calls",
+        "IPX5 Sweat Resistant",
+        "Bluetooth 5.3"
+      ],
+      "warranty": "1 Year Brand Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-WE-402",
+      "product_name": "Tempo Bass Pods",
+      "category": "Wireless Earbuds",
+      "brand": "Tempo",
+      "price_inr": 2499,
+      "rating": 4.0,
+      "key_features": [
+        "Extra Bass Boost Drivers",
+        "8 Hours Playtime (24 Hours with Case)",
+        "Touch Controls",
+        "IPX4 Splash Resistant",
+        "Bluetooth 5.2"
+      ],
+      "warranty": "1 Year Brand Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-WE-403",
+      "product_name": "Aura Studio Buds",
+      "category": "Wireless Earbuds",
+      "brand": "Aura",
+      "price_inr": 12999,
+      "rating": 4.7,
+      "key_features": [
+        "Spatial Audio Support",
+        "Adaptive Noise Cancellation",
+        "Triple Mic System with AI Noise Reduction",
+        "Wireless Charging Case",
+        "IPX7 Water Resistant"
+      ],
+      "warranty": "1 Year Brand Warranty",
+      "stock_status": "Low Stock"
+    },
+    {
+      "product_id": "NM-WE-404",
+      "product_name": "Echo Pods Mini",
+      "category": "Wireless Earbuds",
+      "brand": "Echo",
+      "price_inr": 1799,
+      "rating": 3.8,
+      "key_features": [
+        "Ultra-lightweight Design",
+        "4 Hours Playtime (16 Hours with Case)",
+        "Voice Assistant Support",
+        "Bluetooth 5.1",
+        "Monopod Mode (use single earbud)"
+      ],
+      "warranty": "6 Months Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-BS-501",
+      "product_name": "WaveBar Go",
+      "category": "Bluetooth Speakers",
+      "brand": "Wave",
+      "price_inr": 3999,
+      "rating": 4.2,
+      "key_features": [
+        "10W Dynamic Audio Output",
+        "IPX7 Fully Waterproof",
+        "12 Hours Battery Life",
+        "Carabiner Clip Included",
+        "Bluetooth 5.0"
+      ],
+      "warranty": "1 Year Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-BS-502",
+      "product_name": "Roam Outdoor XL",
+      "category": "Bluetooth Speakers",
+      "brand": "Roam",
+      "price_inr": 7999,
+      "rating": 4.5,
+      "key_features": [
+        "30W Stereo Sound with Deep Bass",
+        "IP67 Dust & Waterproof",
+        "24 Hours Battery Life (Powerbank Feature)",
+        "Party-Link Mode (connect multiple speakers)",
+        "USB-C Charging"
+      ],
+      "warranty": "1 Year Warranty",
+      "stock_status": "In Stock"
+    },
+    {
+      "product_id": "NM-BS-503",
+      "product_name": "Aura SoundScape 360",
+      "category": "Bluetooth Speakers",
+      "brand": "Aura",
+      "price_inr": 16999,
+      "rating": 4.8,
+      "key_features": [
+        "60W 360-degree Omnidirectional Sound",
+        "Hi-Res Audio Certified",
+        "Ambient RGB LED Lighting",
+        "Wi-Fi & Bluetooth Dual Connectivity",
+        "Smart Home Assistant Integrated"
+      ],
+      "warranty": "2 Years Premium Warranty",
+      "stock_status": "Low Stock"
+    },
+    {
+      "product_id": "NM-BS-504",
+      "product_name": "BoomBox Street 20",
+      "category": "Bluetooth Speakers",
+      "brand": "Boom",
+      "price_inr": 11999,
+      "rating": 4.4,
+      "key_features": [
+        "40W Rugged Boombox Style",
+        "Dedicated Bass Boost Button",
+        "15 Hours Playtime",
+        "Microphone Input for Karaoke",
+        "IPX5 Splash Resistant"
+      ],
+      "warranty": "1 Year Warranty",
+      "stock_status": "In Stock"
+    }
+  ]
+}
