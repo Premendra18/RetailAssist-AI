@@ -55,7 +55,7 @@ The screenshots below showcase NovaAssist handling real customer interactions du
 
 ## 1. Product Recommendation – Requirement Discovery
 
-![Product Recommendation](screenshots/Product%20Recommendation.png)
+![Product Recommendation](Screenshots/Product%20Recommendation.png)
 
 NovaAssist begins by understanding the customer's intent instead of recommending products immediately. It asks only the minimum clarification questions required to identify the customer's budget, primary use case, and preferences before making a recommendation.
 
